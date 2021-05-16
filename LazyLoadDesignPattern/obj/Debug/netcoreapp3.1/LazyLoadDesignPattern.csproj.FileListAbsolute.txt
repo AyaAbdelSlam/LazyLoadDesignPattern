@@ -1,0 +1,13 @@
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\bin\Debug\netcoreapp3.1\LazyLoadDesignPattern.exe
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\obj\Debug\netcoreapp3.1\LazyLoadDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\obj\Debug\netcoreapp3.1\LazyLoadDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\obj\Debug\netcoreapp3.1\LazyLoadDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\bin\Debug\netcoreapp3.1\LazyLoadDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\bin\Debug\netcoreapp3.1\LazyLoadDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\bin\Debug\netcoreapp3.1\LazyLoadDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\bin\Debug\netcoreapp3.1\LazyLoadDesignPattern.dll
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\bin\Debug\netcoreapp3.1\LazyLoadDesignPattern.pdb
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\obj\Debug\netcoreapp3.1\LazyLoadDesignPattern.csproj.CopyComplete
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\obj\Debug\netcoreapp3.1\LazyLoadDesignPattern.dll
+C:\Users\ahemaid\source\repos\LazyLoadDesignPattern\LazyLoadDesignPattern\obj\Debug\netcoreapp3.1\LazyLoadDesignPattern.pdb
